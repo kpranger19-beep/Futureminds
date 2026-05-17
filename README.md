@@ -5,7 +5,7 @@ Future Minds is a free, interactive learning app for K–5 students featuring qu
 
 ##  Live App
 
- **[Launch Future Minds](https://kpranger19-beep.github.io/futureminds)**
+ **[Launch Future Minds](https://kpranger19-beep.github.io/Futureminds/)**
 
 Works on any device — desktop, tablet, or phone. No account needed.
 
